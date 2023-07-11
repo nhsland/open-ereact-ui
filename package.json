@@ -33,7 +33,7 @@
     "husky": "4.2.5",
     "i18next": "19.7.0",
     "i18next-browser-languagedetector": "6.0.1",
-    "i18next-scanner": "2.11.0",
+    "i18next-scanner": "4.3.0",
     "inquirer": "7.3.3",
     "inquirer-directory": "2.2.0",
     "lint-staged": "10.3.0",
